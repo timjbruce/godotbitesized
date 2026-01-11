@@ -2,7 +2,7 @@
 
 My name is Tim and I am a hobbyist game designer / developer. I've been using Godot for about a year and a half, on and off, to develop some fun little game ideas that I've had in my head. I wanted to share what works for me and how I go about building some games using the Godot Engine.
 
-The ideas that I'm going to capture here are going to be 5-10 minutes worth of work, or bit sized. One of my goals is to also make these sections into videos and I am starting with text-based solutions first.  
+The ideas that I'm going to capture here are targeted to be less than 7 minutes worth of work, or bit sized. The reading might be a bit longer, but the actual work in Godot should be no more than 7 minutes. One of my goals is to also make these sections into videos and I am starting with text-based solutions first.  
 
 ## How I Think About Building Games
 
@@ -36,7 +36,7 @@ Godot experts might wonder why I say components and not plug-ins. I just haven't
 
 Other Godot experts might wonder if I will use plug-ins in this. The quick answer is "No." The longer answer is I want to help people understand what they are doing and to not just use plug-ins. I think plug-ins have a purpose and some are very powerful. If you don't want to be a developer, but you love putting games together from building blocks, plug-ins can be a wonderful way to get that moving! Additionally, I've learned from some plug-ins by reviewing their code and looking at what the developer(s) have done. I love learning from others and do not need to learn every lesson the hard way!
 
-## OK, nice readme, but what's next?
+## OK, nice readme, but what's on the roadmap?
 
 I want to build a game of an idea that I've had for a while. It's going to need some components, namely:
 
@@ -52,7 +52,13 @@ I want to build a game of an idea that I've had for a while. It's going to need 
 
 There's probably a few other things that will get added to this list. The way that I will build this out is by using different repos for each of the major items and link the repo on this page.
 
-Hae fun and happy gaming!
+Have fun and happy gaming!
+
+## Great! Where do we start!
+
+Here is the order of content released. This will probably bounce around a bit, from component to component. Feel free to follow a component all the way through, if you like. I realize with 1 demo here, that's pretty easy :D
+
+1. [Player Build 1](https://github.com/timjbruce/godotbitesized_player/readme.MD#Build-1)
 
 ## Asked Questions
 
