@@ -75,3 +75,13 @@ All game developers should use some form of code repository/code management syst
 6. Aren't you afraid of putting your work in progress out there?
 
 No. I'm here to have fun and I hope you are, too.
+
+7. Are you an artist?
+
+No, I am not. My graphics might be ugly to some. Some will definitely be bland. I may use some open source graphics just to save time on building content. If you are looking to contribute art, let me know via an issue.
+
+8. What types of games do you like?
+
+I like a lot of different games - CRPGs, Adventure, City Builders, Rogue/Rogue-Lite/Rogue-Like, Racing. I grew up in a great time in this world - Raph Koster, Sid Meier, Brian Reynolds, Roberta Williams, Danielle Bunten Berry, Chris Sawyer, Will Wrigth, Chris Roberts, Al Lowe, Richard Garriott, American McGee, Alexey Pajitnov, Toru Iwatani, Brad McQuaid, Takshi Iizuka, Eugene Jarvis, Richard Bartle, and Douglas Adams painted my early world with their wonderful imaginations with their wonderful creations.
+
+There are many more great names to add to this list from more recent years, and this is not to slight them in the least. 
