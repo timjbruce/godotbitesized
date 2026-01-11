@@ -16,7 +16,7 @@ I also like to think of the lore of the game world that I'm thinking of at this 
 
 ## Who is this geared towards?
 
-This content is targeted towards Godot high beginners to low intermediate developers. If you are a true beginner, some of the concepts here might seem more complicated than just building a game demo. I'd highly recommend the (Official Godot Tutorials)[https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html] or (Godot Tutorials Basic Series)[https://godottutorials.com/courses/godot-basics-series]. You'll pick up a lot from them.
+This content is targeted towards Godot high beginners to low intermediate developers. If you are a true beginner, some of the concepts here might seem more complicated than just building a game demo. I'd highly recommend the [Official Godot Tutorials](https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html) or [Godot Tutorials Basic Series](https://godottutorials.com/courses/godot-basics-series). You'll pick up a lot from them.
 
 If you are an advanced developer, some of the starting portions of the components might be very basic. In the start of each section, I'll point out what is being built and you can skim over it to see if there's anything new for you or not. Hopefully you will find some nuggets of knowledge or maybe you can share yours via issues!
 
