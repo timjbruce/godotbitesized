@@ -58,7 +58,7 @@ Have fun and happy gaming!
 
 Here is the order of content released. This will probably bounce around a bit, from component to component. Feel free to follow a component all the way through, if you like. I realize with 1 demo here, that's pretty easy :D
 
-1. [Player Build 1](https://github.com/timjbruce/godotbitesized_player/readme.MD#Build-1)
+1. [Player Build 1](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#Build-1)
 
 ## Asked Questions
 
