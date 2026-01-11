@@ -14,21 +14,27 @@ There are many great books on game design. Two that quickly come to mind are A T
 
 I also like to think of the lore of the game world that I'm thinking of at this time. Is it modern? Fantasy? Why will a player care? I like writing the story of the world and thinking where players can take themselves!
 
+## Who is this geared towards?
+
+This content is targeted towards Godot high beginners to low intermediate developers. If you are a true beginner, some of the concepts here might seem more complicated than just building a game demo. I'd highly recommend the (Official Godot Tutorials)[https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html] or (Godot Tutorials Basic Series)[https://godottutorials.com/courses/godot-basics-series]. You'll pick up a lot from them.
+
+If you are an advanced developer, some of the starting portions of the components might be very basic. In the start of each section, I'll point out what is being built and you can skim over it to see if there's anything new for you or not. Hopefully you will find some nuggets of knowledge or maybe you can share yours via issues!
+
 ## Now Into Godot!
 
 Great, there's an idea of a game! Once I get that idea rolling, I start to think about the components of my game. Will the player have an inventory? Is it fixed size or just a bag of holding? What type of gear will be needed? What is the world like? What do I need to build first so that I can get this idea rolling?
 
-That last question is really the big one. What to build first. When that's answered, I start up Godot and get to building that first subsystem.
+That last question is really the big one. What to build first. When that's answered, I start up Godot and get to building that first subsystem. My thought is to get something working to test out if the idea is fun! After all, we are making a game and my games typically focus on fun as the feeling.
 
 As with most developers, I don't like to build things more than once. Ask a game developer how many chat systems they've developed. The answer is either "one" or "too many." If I build something once, I try to make it a component that can be re-used in future games. I do this by creating a separate project and working on the interfaces to and from the component. My first goal is always to get something working. I might have an idea of how, and a design that I'm working from, but I will adjust when I see what is or is not working.
 
 Once I get something working, I typically spend some time cleaning it up. I like my components to have minimal code in each object and to be maintainable. But this is _only_ if they work. Optimizing something that doesn't work is, to me, a fool's errand.
 
-When I get the component to a spot that I like, I copy it into the main game and see what I like and don't like about how it works. This means that I will get some form of each of the portions of a game working and start seeing how they work together. Did I get it right? Did I over-simplify or create an overly complex component? You'll see some of that in somewhat real-time!
+When I get the component to a spot that I like, I copy it into the main game and see what I like and don't like about how it works. This means that I will get some form of each of the portions of a game working and start seeing how they work together. Did I get it right? Did I over-simplify or create an overly complex component? Did I forget something super obvious? You'll see some of that in somewhat real-time!
 
-Godot experts might wonder why I say components and not plug-ins. I just haven't gotten that far with my components. I have developed some plug-ins, but not in my own code base. One day, that might change. It might even change before your eyes!
+Godot experts might wonder why I say components and not plug-ins. I just haven't gotten that far with my components. I have developed some plug-ins for other usage, but not in my own code base. One day, that might change. It might even change before your eyes!
 
-Other Godot experts might wonder if I will use plug-ins in this. The quick answer is "No." The longer answer is I want to help people understand what they are doing and use plug-ins. I think plug-ins have a purpose and some are very powerful. I've even learned from some plug-ins. I just don't want to focus there with this work.
+Other Godot experts might wonder if I will use plug-ins in this. The quick answer is "No." The longer answer is I want to help people understand what they are doing and to not just use plug-ins. I think plug-ins have a purpose and some are very powerful. If you don't want to be a developer, but you love putting games together from building blocks, plug-ins can be a wonderful way to get that moving! Additionally, I've learned from some plug-ins by reviewing their code and looking at what the developer(s) have done. I love learning from others and do not need to learn every lesson the hard way!
 
 ## OK, nice readme, but what's next?
 
@@ -62,7 +68,7 @@ I like to figure out how things work. If you want to know how things work and ho
 
 3. This seems very beginner based. Is it?
 
-Some pieces will be very beginner based. I'm going to document the build of these features in bit sized chunks that can help the beginner to advance. Hopefully advanced users can learn something, too. If you have ideas on any of the repos, please open an issue with your idea. I can't say that I will build what you are asking about, but I will engage!
+Some pieces will be beginner based, especially the early builds of the components. I'm going to document the build of these features in bit sized chunks that can help the beginner to advance. Hopefully advanced users can learn something, too. If you have ideas on any of the repos, please open an issue with your idea. I can't promise that I will build what you are asking about, but I will engage!
 
 4. Ok, you're making component repos and building up bit by bit. How can we see each stage if you're always updating a repo?
 
@@ -70,17 +76,21 @@ I'm going to tag each step that is documented in the repo. You can checkout a sp
 
 5. You mean I need to learn git?
 
-All game developers should use some form of code repository/code management system. If you want to be a game developer, learn a bit of how to make your code safe!
+All game developers should use some form of code repository/code management system. If you want to be a game developer, learn a bit of how to keep your code safe from your own local disasters!
 
 6. Aren't you afraid of putting your work in progress out there?
 
-No. I'm here to have fun and I hope you are, too.
+No. I'm here to have fun and learn. I hope you are, too.
 
 7. Are you an artist?
 
-No, I am not. My graphics might be ugly to some. Some will definitely be bland. I may use some open source graphics just to save time on building content. If you are looking to contribute art, let me know via an issue.
+No, I am not. My graphics might be ugly to some. Some will definitely be bland. I may use some open source graphics just to save time on building content. I realize this might sound a bit like I'm speaking out of two sides of my mouth with not using plug-ins. I'm a developer and designer, and that's where I love to learn how things work.
 
-8. What types of games do you like?
+8. I have some artwork I'd love to contribute. How?
+
+If you are looking to contribute art, let me know via an issue. You must provide me an open license to use it for this component series. I will not use your artwork in a game I release without your explicit permission.
+
+9. What types of games do you like?
 
 I like a lot of different games - CRPGs, Adventure, City Builders, Rogue/Rogue-Lite/Rogue-Like, Racing. I grew up in a great time in this world - Raph Koster, Sid Meier, Brian Reynolds, Roberta Williams, Danielle Bunten Berry, Chris Sawyer, Will Wrigth, Chris Roberts, Al Lowe, Richard Garriott, American McGee, Alexey Pajitnov, Toru Iwatani, Brad McQuaid, Takshi Iizuka, Eugene Jarvis, Richard Bartle, and Douglas Adams painted my early world with their wonderful imaginations with their wonderful creations.
 
