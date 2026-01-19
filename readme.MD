@@ -58,8 +58,10 @@ Have fun and happy gaming!
 
 Here is the order of content released. This will probably bounce around a bit, from component to component. Feel free to follow a component all the way through, if you like. I realize with 1 demo here, that's pretty easy :D
 
-1. [Player Build 1](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#Build-1)
-2. [World Build 1](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#Build-1)
+1. [Player Build 1](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-1) - 1a16275e3b4470524be13ed08eeed15e9c34b053
+2. [World Build 1](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-1) - a722a2dde57437ad26b300bf1d14f4c9902e2948
+3. [Generator Build 1](https://github.com/timjbruce/godotbitesized_generator/blob/main/README.md#build-1) - 13fae4a34aafd3e9e1478429efff72015360dedb
+4. [World Build 2](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-2) - 0aea30cbacb6c57dff278fcccbb465d563a14559
 
 ## Asked Questions
 
