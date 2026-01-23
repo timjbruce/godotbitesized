@@ -67,9 +67,9 @@ Here is the order of content released. This will probably bounce around a bit, f
 
 ### Adding Basic Physics
 
-5. [Generator Build 2](https://github.com/timjbruce/godotbitesized_generator/blob/main/README.md#build-2)
-6. [Player Build 2](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-2)
-7. [World Build 3](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-2)
+5. [Generator Build 2](https://github.com/timjbruce/godotbitesized_generator/blob/main/README.md#build-2) -c09a800bd7a72e74315909568aa06c5ce81d3ce8
+6. [Player Build 2](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-2) - 31e471601c13e17e91e04ffa4b73f3743f1381aa
+7. [World Build 3](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-3) - d03bdca8e03a8e8786fa6d7060f1cde36af046f1
 
 
 
