@@ -71,7 +71,10 @@ Here is the order of content released. This will probably bounce around a bit, f
 6. [Player Build 2](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-2) - 31e471601c13e17e91e04ffa4b73f3743f1381aa
 7. [World Build 3](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-3) - d03bdca8e03a8e8786fa6d7060f1cde36af046f1
 
+### Adding Features - Player Component
 
+8. [Player Build 3](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-3)
+9. [World Build 4](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-4)
 
 ## Asked Questions
 
