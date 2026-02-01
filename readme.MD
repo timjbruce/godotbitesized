@@ -77,8 +77,10 @@ In this set of lessons, we'll walk through adding physics to the walls to stop t
 
 This set of lessons goes over adding additional features to the player, such as using the same model for enemies, NPCs, and the such.
 
-8. [Player Build 3](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-3)
+8. [Player Build 3](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-3) - Enemies and NPCs
 9. [World Build 4](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-4)
+10. [Player Build 4](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-3) - Enemy and NPC movement
+11. [World Build 5](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-5)
 
 ## Asked Questions
 
