@@ -20,6 +20,12 @@ This content is targeted towards Godot high beginners to low intermediate develo
 
 If you are an advanced developer, some of the starting portions of the components might be very basic. In the start of each section, I'll point out what is being built and you can skim over it to see if there's anything new for you or not. Hopefully you will find some nuggets of knowledge or maybe you can share yours via issues!
 
+## How is this organized?
+
+With this build, all the content for each of the sessions is now located in this repository. Additionally, each session will now include details for all the work across projects. I think this will help with readability. Always happy to have input!
+
+The additional repositories will now only contain the Godot projects and source assets. I may add an overall readme to the projects, in case someone wants to fork/clone the work for themselves. Again, hoping this will be a bit easier!
+
 ## Now Into Godot!
 
 Great, there's an idea of a game! Once I get that idea rolling, I start to think about the components of my game. Will the player have an inventory? Is it fixed size or just a bag of holding? What type of gear will be needed? What is the world like? What do I need to build first so that I can get this idea rolling?
@@ -40,10 +46,10 @@ Other Godot experts might wonder if I will use plug-ins in this. The quick answe
 
 I want to build a game of an idea that I've had for a while. It's going to need some components, namely:
 
-- A Player
-- Enemies
+- A Player ✅
+- Enemies ✅
 - Boss enemies
-- A dynamic floor/room generator for a 2D, top-down world
+- A dynamic floor/room generator for a 2D, top-down world ⚒️
 - An inventory system, including a paperdoll to equip items
 - Ranged weapons with damage types
 - An interesting armor system that makes players make choices
@@ -60,27 +66,31 @@ Here is the order of content released. This will probably bounce around a bit, f
 
 ### Basic Build
 
-1. [Player Build 1](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-1) - 1a16275e3b4470524be13ed08eeed15e9c34b053
-2. [World Build 1](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-1) - a722a2dde57437ad26b300bf1d14f4c9902e2948
-3. [Generator Build 1](https://github.com/timjbruce/godotbitesized_generator/blob/main/README.md#build-1) - 13fae4a34aafd3e9e1478429efff72015360dedb
-4. [World Build 2](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-2) - 0aea30cbacb6c57dff278fcccbb465d563a14559
+In [Lesson 1](lesson1.MD), we'll cover the basics of building a player object, building a game world to place the player in, building a floor generator with a single room, and then adding that to the world.
+
+The below items are the GitHub commit hashes for each of the projects:
+
+1. Player Build 1 - 1a16275e3b4470524be13ed08eeed15e9c34b053
+2. World Build 1 - a722a2dde57437ad26b300bf1d14f4c9902e2948
+3. Generator Build 1 - 13fae4a34aafd3e9e1478429efff72015360dedb
+4. World Build 2 - 0aea30cbacb6c57dff278fcccbb465d563a14559
 
 ### Adding Basic Physics
 
-In this set of lessons, we'll walk through adding physics to the walls to stop the players and enemies from moving beyond then.
+In [Lesson 2](lesson2.MD), we'll walk through adding physics to the walls to stop the players and enemies from moving beyond then.
 
-5. [Generator Build 2](https://github.com/timjbruce/godotbitesized_generator/blob/main/README.md#build-2) -c09a800bd7a72e74315909568aa06c5ce81d3ce8
-6. [Player Build 2](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-2) - 31e471601c13e17e91e04ffa4b73f3743f1381aa
-7. [World Build 3](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-3) - d03bdca8e03a8e8786fa6d7060f1cde36af046f1
+5. Generator Build 2 -c09a800bd7a72e74315909568aa06c5ce81d3ce8
+6. Player Build 2 - 31e471601c13e17e91e04ffa4b73f3743f1381aa
+7. World Build 3 - d03bdca8e03a8e8786fa6d7060f1cde36af046f1
 
 ### Adding Features - Player Component
 
-This set of lessons goes over adding additional features to the player, such as using the same model for enemies, NPCs, and the such.
+In [Lesson 3](lesson3.MD), we will add additional features to the player, such as using the same model for enemies, NPCs, and the such.
 
-8. [Player Build 3](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-3) - Enemies and NPCs
-9. [World Build 4](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-4)
-10. [Player Build 4](https://github.com/timjbruce/godotbitesized_player/blob/main/readme.MD#build-3) - Enemy and NPC movement
-11. [World Build 5](https://github.com/timjbruce/godotbitesized_world/blob/main/README.md#build-5)
+8. Player Build 3 - Enemies and NPCs
+9.  World Build 4 - Integrate the Enemies and NPCS
+10. Player Build 4 - Enemy and NPC movement
+11. World Build 5 - Re-integrate the updated player
 
 ## Asked Questions
 
