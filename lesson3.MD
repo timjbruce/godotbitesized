@@ -1,6 +1,6 @@
 # Lesson 3 - Extending the Player Component
 
-In this lesson, we'll focus on extending the Player component to 
+In this lesson, we'll focus on extending the Player component to Enemies and NPCs. We'll also add movement to them, so the world will feel alive.
 
 ## First Player Updates!
 
@@ -1044,3 +1044,5 @@ Lastly, we're going to turn on debug mode for collisions. This might help you if
 ![Enemies have trapped the player!](/readmeassets/lesson3/world/5_enemies_trapped_my_player.png)
 
 Play around with the speeds and numbers of the Enemies, NPCs!
+
+[Next Lesson](lesson4.MD)
